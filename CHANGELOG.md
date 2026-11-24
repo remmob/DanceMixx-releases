@@ -2,6 +2,13 @@
 
 Alle versies, de nieuwste bovenaan. Downloaden: [Releases](https://github.com/remmob/DanceMixx-releases/releases/latest).
 
+## 1.7.0 (24-11-2026)
+
+- Nieuw: zoeken in de afspeellijsten (Ctrl+F). Links blijven alleen de afspeellijsten over waarin iets gevonden is, rechts de gevonden tracks.
+- Verbeterd: het zoekvak in de Verkenner staat nu links, net als in de Database.
+- Verbeterd: de updatemelding toont alleen wat er nieuw is sinds jouw versie.
+- Handleiding bijgewerkt.
+
 ## 1.6.1 (24-11-2026)
 
 - Nieuw: de tempo-aanpassing uit de Database (overgenomen uit DanceWave) wordt nu gebruikt bij het laden van een track, als er geen tempo in de tag staat (maximaal ±8%).
