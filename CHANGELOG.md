@@ -2,6 +2,13 @@
 
 Alle versies, de nieuwste bovenaan. Downloaden: [Releases](https://github.com/remmob/DanceMixx-releases/releases/latest).
 
+## 1.8.1 (24-11-2026)
+
+- Verbeterd: de jingle-decks staan bij het opstarten altijd uit en zijn leeg, net als Deck B. Zet je ze uit, dan worden ze leeggemaakt (een jingle die speelt, maakt eerst af).
+- Opgelost: vaak of lang op vooruitspoelen drukken kon DanceMixx laten vastlopen. Vooruitspoelen stopt nu 1 seconde voor het einde van de track.
+- Opgelost: voorluisteren ging na 10 seconden uit terwijl je nog in de waveform aan het slepen was. Gebruik van het deck telt nu mee.
+- Handleiding bijgewerkt.
+
 ## 1.8.0 (24-11-2026)
 
 - Nieuw: afspeellijsten importeren (.m3u, .m3u8, .pls of .txt), via Importeren... in Afspeellijsten of Bestand > Afspeellijst importeren. Paden van een andere computer (zoals M:\Muziek) worden omgezet naar je muziekmap.
