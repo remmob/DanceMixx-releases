@@ -2,6 +2,11 @@
 
 Alle versies, de nieuwste bovenaan. Downloaden: [Releases](https://github.com/remmob/DanceMixx-releases/releases/latest).
 
+## 1.7.1 (24-11-2026)
+
+- Nieuw: tracks uit de database verwijderen. Selecteer ze en druk op Del, of rechtsklik > Verwijderen uit de database. De muziekbestanden zelf blijven staan; met een toegangscode verdwijnen ze ook bij je collega's.
+- Handleiding bijgewerkt.
+
 ## 1.7.0 (24-11-2026)
 
 - Nieuw: zoeken in de afspeellijsten (Ctrl+F). Links blijven alleen de afspeellijsten over waarin iets gevonden is, rechts de gevonden tracks.
