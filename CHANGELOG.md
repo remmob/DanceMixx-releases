@@ -2,6 +2,11 @@
 
 Alle versies, de nieuwste bovenaan. Downloaden: [Releases](https://github.com/remmob/DanceMixx-releases/releases/latest).
 
+## 1.8.2 (24-11-2026)
+
+- Verbeterd: DanceMixx kijkt nu elke 15 minuten of collega's iets nieuws in de gedeelde muziekbibliotheek hebben gezet (niet alleen bij het opstarten). Er verschijnt dan een melding; binnenhalen doe je zelf met een klik.
+- Handleiding bijgewerkt.
+
 ## 1.8.1 (24-11-2026)
 
 - Verbeterd: de jingle-decks staan bij het opstarten altijd uit en zijn leeg, net als Deck B. Zet je ze uit, dan worden ze leeggemaakt (een jingle die speelt, maakt eerst af).
