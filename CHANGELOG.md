@@ -2,6 +2,11 @@
 
 Alle versies, de nieuwste bovenaan. Downloaden: [Releases](https://github.com/remmob/DanceMixx-releases/releases/latest).
 
+## 1.9.1 (27-11-2026)
+
+- Nieuw: tijdens de fade-out (F, alleen Deck A) staat over de waveform een balkje dat leegloopt, met het knipperende woord FADING
+- Nieuw: de tijd van de fade-out is in te stellen in Instellingen (2 tot 20 seconden, standaard 5)
+
 ## 1.9.0 (24-11-2026)
 
 - Nieuw: met alleen Deck A start de spatiebalk de track opnieuw vanaf de start-cue (of start hem als hij niet speelt)
