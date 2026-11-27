@@ -2,6 +2,14 @@
 
 Alle versies, de nieuwste bovenaan. Downloaden: [Releases](https://github.com/remmob/DanceMixx-releases/releases/latest).
 
+## 1.9.0 (24-11-2026)
+
+- Nieuw: met alleen Deck A start de spatiebalk de track opnieuw vanaf de start-cue (of start hem als hij niet speelt)
+- Nieuw: met alleen Deck A faadt F de track in 5 seconden uit; daarna staat hij klaar op de start-cue
+- Nieuw: met alleen Deck A blijft een afgelopen track klaar staan op de start-cue als er niets meer volgt
+- Nieuw: in de Database kies je de dans met sneltoetsen (standaard 1 t/m 9, 0 = alle dansen), in te stellen in Instellingen
+- Opgelost: de spatiebalk drukt niet meer de laatst gekozen knop of het laatste menu in
+
 ## 1.8.2 (24-11-2026)
 
 - Verbeterd: DanceMixx kijkt nu elke 15 minuten of collega's iets nieuws in de gedeelde muziekbibliotheek hebben gezet (niet alleen bij het opstarten). Er verschijnt dan een melding; binnenhalen doe je zelf met een klik.
